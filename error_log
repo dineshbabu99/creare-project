@@ -1,0 +1,17 @@
+[30-Jun-2020 12:00:06 UTC] PHP Notice:  Undefined index: email in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 4
+[30-Jun-2020 12:00:06 UTC] PHP Notice:  Undefined index: name in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 5
+[30-Jun-2020 12:00:06 UTC] PHP Notice:  Undefined index: phone in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 6
+[30-Jun-2020 12:00:06 UTC] PHP Notice:  Undefined index: description in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 7
+[30-Jun-2020 12:00:06 UTC] PHP Notice:  Undefined variable: description in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 30
+[30-Jun-2020 14:24:49 UTC] PHP Notice:  Undefined index: email in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 4
+[30-Jun-2020 14:24:49 UTC] PHP Notice:  Undefined index: name in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 5
+[30-Jun-2020 14:24:49 UTC] PHP Notice:  Undefined index: phone in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 6
+[30-Jun-2020 14:24:49 UTC] PHP Notice:  Undefined index: description in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 7
+[30-Jun-2020 14:24:49 UTC] PHP Notice:  Undefined variable: description in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 30
+[02-Jul-2020 13:37:08 UTC] PHP Notice:  Undefined variable: description in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 30
+[03-Jul-2020 06:04:00 UTC] PHP Notice:  Undefined variable: description in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 30
+[03-Jul-2020 06:27:23 UTC] PHP Notice:  Undefined variable: description in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 30
+[03-Jul-2020 06:36:10 UTC] PHP Notice:  Undefined variable: description in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 30
+[03-Jul-2020 06:45:56 UTC] PHP Notice:  Undefined variable: description in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 30
+[03-Jul-2020 06:47:15 UTC] PHP Notice:  Undefined variable: description in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 30
+[03-Jul-2020 06:49:54 UTC] PHP Notice:  Undefined variable: description in /home/tfwxj5q451fg/public_html/crearefoundation.com/contact_process.php on line 30
